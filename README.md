@@ -1,4 +1,4 @@
-# node-auth-boilerplate
+# server-auth-boilerplate
 Token-based authentication server boilerplate using Express, Mongoose and Passport
 
 # Environment variables
