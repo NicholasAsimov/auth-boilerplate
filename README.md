@@ -1,7 +1,9 @@
 # server-auth-boilerplate
 Token-based authentication server boilerplate using Express, Mongoose and Passport
 
-# Environment variables
+## Getting Started
+
+### Environment variables
 In the root directory create __.env__ file with the following content:
 ```
 MONGODB_URI=mongodb://username:password@host:port/database
