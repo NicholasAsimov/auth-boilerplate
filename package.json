@@ -1,7 +1,8 @@
 {
-  "name": "node-auth-boilerplate",
+  "name": "server-auth-boilerplate",
   "version": "1.0.0",
   "description": "Token-based authentication server boilerplate",
+  "repository": "https://github.com/NicholasAsimov/server-auth-boilerplate.git",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
